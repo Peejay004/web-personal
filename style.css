@@ -1,0 +1,14 @@
+body {
+	background: #efefef;
+	font-family: ariel;
+}
+h1 {
+	font-size: 40px;
+	font-family: ariel;
+	text-align: center;
+}
+
+image {
+	height: 20px;
+	width: 20px;
+}
